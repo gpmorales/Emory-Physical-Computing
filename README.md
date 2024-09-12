@@ -1,2 +1,3 @@
 # Physical-Computing-Emory
-My CS 485 Portfolio page.
+Welcome to my CS-495 Portfolio 👋 !
+This is a work in progress so hold tight 😄
